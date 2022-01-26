@@ -29,27 +29,27 @@
 }
 
 .theme.col-3 {
-    background-color: #deb2ee;
+    background-color: $color-bg-col-3;
 }
 
 .theme.col-4 {
-    background-color: #7ee6fd;
+    background-color: $color-bg-col-4;
 }
 
 .theme.col-5 {
-    background-color: #88d9a0;
+    background-color: $color-bg-col-5;
 }
   
 .theme.col-6 {
-    background-color: #4da2bb;
+    background-color: $color-bg-col-6;
 }
 
 .theme.col-7 {
-    background-color: #ec9fa3;
+    background-color: $color-bg-col-7;
 }
 
 .theme.col-8 {
-    background-color: #fd9f85;
+    background-color: $color-bg-col-8;
 }
 
 .theme.col-9 {
@@ -65,7 +65,7 @@
 }
 
 .theme.col-12 {
-    background-color: #80e8d1;
+    background-color: $color-bg-col-12;
 }
 
 .card {
